@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../med_site_project\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Python\work_vasilii\flask_project\med_site_project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
